@@ -1,0 +1,22 @@
+SESSION22
+Bài 4 : Đánh giá chất lượng giải pháp trên Stack Overflow
+
+Tên lớp: HCM K26 CNTT2
+Môn học: Nhập môn công nghệ thông tin
+Họ và tên: LƯƠNG THANH THƯ
+
+
+1. Bảng so sánh Ưu/Nhược điểm
+
+Tiêu chí			Giải pháp 1 (2014, ✓, 500 )				Giải pháp 2 (2023, không ✓, 50 )
+Độ tin cậy lịch sử		Ưu: có tích xanh, nhiều người kiểm chứng.       	Ưu: có bình luận xác nhận chạy được.
+                                Nhược: chỉ đúng cho thời điểm 2014.	       		Nhược: không tích xanh, ít người kiểm chứng.
+Cập nhật với HĐH mới		Nhược: viết thời Windows 7/8, có thể lỗi thời.	        Ưu: viết năm 2023, đúng Windows 11.
+Rủi ro hỏng thiết lập hiện tại	Nhược: cách cũ dễ xung đột với cấu hình hệ thống mới.	Ưu: khớp HĐH nên ít xung đột. 
+											Nhược: ít kiểm chứng, cần đọc kỹ lệnh và sao lưu trước.
+
+2. Lựa chọn giải pháp & Lập luận vì sao "Tích xanh" không còn là số 1
+Lựa chọn: Ưu tiên chọn Giải pháp 2.
+Vì:
+Công nghệ thay đổi nhanh: Tích xanh từ năm 2014 chỉ chứng minh câu trả lời đó từng đúng trong quá khứ (thời Windows 7/8). Trên Windows 11, giải pháp cũ có thể làm hỏng thiết lập hiện tại.
+Ngữ cảnh hiện tại quan trọng hơn: Giải pháp năm 2023 có comment xác nhận chạy tốt trên Windows 11 sẽ phù hợp và an toàn hơn với môi trường thực tế đang dùng.
